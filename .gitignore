@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+# Project 3rd Party
+SDL2-2.0.14/
