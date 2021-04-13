@@ -31,5 +31,11 @@
 *.out
 *.app
 
+# Debug files
+*.pdb
+
+# DLL stuff
+*.exp
+
 # Project 3rd Party
 SDL2-2.0.14/
